@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.phtml": "php",
+        "risc_v.h": "c"
+    }
+}
